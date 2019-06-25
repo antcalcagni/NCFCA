@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/131990283.svg)](https://zenodo.org/badge/latestdoi/131990283)
+
+
 # NCFCA
 Non-convex fuzzy component analysis
 
